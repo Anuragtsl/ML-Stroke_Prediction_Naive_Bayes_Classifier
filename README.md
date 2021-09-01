@@ -6,7 +6,7 @@ In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matpl
 
 I've used [Jupyter Notebook]() for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)!**
 
 # Table of Contents
 
@@ -27,7 +27,7 @@ I've used [Jupyter Notebook]() for coding!
 * Balancing Data
 * Model Creation
 
-***Follow [notebook]() for more!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Stroke_Prediction_Naive_Bayes_Classifier/blob/main/Stroke%20Prediction%20Naive%20Bayes%20Classifier.ipynb) for more!***
 
 # Closure
 
